@@ -1,0 +1,27 @@
+div{
+  margin-left: 2vw;
+}
+h2{
+  font-size: 2.4em;
+  line-height: 2px;
+}
+
+.output{
+  margin-left: 6px;
+  line-break: auto;
+  width: 60vw;
+}
+
+p{
+  white-space: pre-wrap;
+}
+
+.audioPlay{
+  color: rgb(16, 83, 105);
+  text-decoration: underline;
+  width:fit-content;
+}
+.audioPlay:hover{
+  cursor:pointer;
+  color: rgb(5, 50, 65);
+}
